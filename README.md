@@ -26,5 +26,5 @@
 ---
 
 ### 📫 Contact Me
-- [LinkedIn](https://linkedin.com/in/YOUR-LINK)
+- [LinkedIn](www.linkedin.com/in/mohammed-basheir-izeldin)
 - [Portfolio](https://YOUR-PORTFOLIO.github.io)
